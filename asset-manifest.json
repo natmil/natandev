@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/natandev/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/natandev/static/js/main.bf9e7ca7.chunk.js",
+    "main.js.map": "/natandev/static/js/main.bf9e7ca7.chunk.js.map",
+    "runtime-main.js": "/natandev/static/js/runtime-main.6fa42103.js",
+    "runtime-main.js.map": "/natandev/static/js/runtime-main.6fa42103.js.map",
+    "static/js/2.ad9f948b.chunk.js": "/natandev/static/js/2.ad9f948b.chunk.js",
+    "static/js/2.ad9f948b.chunk.js.map": "/natandev/static/js/2.ad9f948b.chunk.js.map",
+    "static/js/3.60620d51.chunk.js": "/natandev/static/js/3.60620d51.chunk.js",
+    "static/js/3.60620d51.chunk.js.map": "/natandev/static/js/3.60620d51.chunk.js.map",
+    "index.html": "/natandev/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/natandev/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ad9f948b.chunk.js.LICENSE.txt": "/natandev/static/js/2.ad9f948b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/natandev/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa42103.js",
+    "static/js/2.ad9f948b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bf9e7ca7.chunk.js"
+  ]
+}
