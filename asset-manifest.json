@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/natandev/static/css/main.4450a0bf.chunk.css",
+    "main.css": "/natandev/static/css/main.5d93966a.chunk.css",
     "main.js": "/natandev/static/js/main.2f3af8cb.chunk.js",
     "main.js.map": "/natandev/static/js/main.2f3af8cb.chunk.js.map",
     "runtime-main.js": "/natandev/static/js/runtime-main.a1be4c47.js",
@@ -12,7 +12,7 @@
     "static/js/3.256b4ee9.chunk.js.map": "/natandev/static/js/3.256b4ee9.chunk.js.map",
     "index.html": "/natandev/index.html",
     "static/css/2.fb514539.chunk.css.map": "/natandev/static/css/2.fb514539.chunk.css.map",
-    "static/css/main.4450a0bf.chunk.css.map": "/natandev/static/css/main.4450a0bf.chunk.css.map",
+    "static/css/main.5d93966a.chunk.css.map": "/natandev/static/css/main.5d93966a.chunk.css.map",
     "static/js/2.64d6b74c.chunk.js.LICENSE.txt": "/natandev/static/js/2.64d6b74c.chunk.js.LICENSE.txt",
     "static/media/quadow.d005f25e.jpg": "/natandev/static/media/quadow.d005f25e.jpg",
     "static/media/videre_apng.b609914c.png": "/natandev/static/media/videre_apng.b609914c.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.a1be4c47.js",
     "static/css/2.fb514539.chunk.css",
     "static/js/2.64d6b74c.chunk.js",
-    "static/css/main.4450a0bf.chunk.css",
+    "static/css/main.5d93966a.chunk.css",
     "static/js/main.2f3af8cb.chunk.js"
   ]
 }
