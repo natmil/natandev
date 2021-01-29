@@ -3,6 +3,10 @@ body {
   margin: 0 2rem;
 }
 
+body {
+  font-family: 'Press Start 2P', sans-serif;
+}
+
 @media (max-width: 768px) {
   body {
     margin: 2rem 0.5rem;
