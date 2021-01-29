@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/natandev/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/natandev/static/js/main.bf9e7ca7.chunk.js",
-    "main.js.map": "/natandev/static/js/main.bf9e7ca7.chunk.js.map",
-    "runtime-main.js": "/natandev/static/js/runtime-main.6fa42103.js",
-    "runtime-main.js.map": "/natandev/static/js/runtime-main.6fa42103.js.map",
-    "static/js/2.ad9f948b.chunk.js": "/natandev/static/js/2.ad9f948b.chunk.js",
-    "static/js/2.ad9f948b.chunk.js.map": "/natandev/static/js/2.ad9f948b.chunk.js.map",
-    "static/js/3.60620d51.chunk.js": "/natandev/static/js/3.60620d51.chunk.js",
-    "static/js/3.60620d51.chunk.js.map": "/natandev/static/js/3.60620d51.chunk.js.map",
+    "main.css": "/natandev/static/css/main.4450a0bf.chunk.css",
+    "main.js": "/natandev/static/js/main.2f3af8cb.chunk.js",
+    "main.js.map": "/natandev/static/js/main.2f3af8cb.chunk.js.map",
+    "runtime-main.js": "/natandev/static/js/runtime-main.a1be4c47.js",
+    "runtime-main.js.map": "/natandev/static/js/runtime-main.a1be4c47.js.map",
+    "static/css/2.fb514539.chunk.css": "/natandev/static/css/2.fb514539.chunk.css",
+    "static/js/2.64d6b74c.chunk.js": "/natandev/static/js/2.64d6b74c.chunk.js",
+    "static/js/2.64d6b74c.chunk.js.map": "/natandev/static/js/2.64d6b74c.chunk.js.map",
+    "static/js/3.256b4ee9.chunk.js": "/natandev/static/js/3.256b4ee9.chunk.js",
+    "static/js/3.256b4ee9.chunk.js.map": "/natandev/static/js/3.256b4ee9.chunk.js.map",
     "index.html": "/natandev/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/natandev/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ad9f948b.chunk.js.LICENSE.txt": "/natandev/static/js/2.ad9f948b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/natandev/static/media/logo.6ce24c58.svg"
+    "static/css/2.fb514539.chunk.css.map": "/natandev/static/css/2.fb514539.chunk.css.map",
+    "static/css/main.4450a0bf.chunk.css.map": "/natandev/static/css/main.4450a0bf.chunk.css.map",
+    "static/js/2.64d6b74c.chunk.js.LICENSE.txt": "/natandev/static/js/2.64d6b74c.chunk.js.LICENSE.txt",
+    "static/media/quadow.d005f25e.jpg": "/natandev/static/media/quadow.d005f25e.jpg",
+    "static/media/videre_apng.b609914c.png": "/natandev/static/media/videre_apng.b609914c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fa42103.js",
-    "static/js/2.ad9f948b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bf9e7ca7.chunk.js"
+    "static/js/runtime-main.a1be4c47.js",
+    "static/css/2.fb514539.chunk.css",
+    "static/js/2.64d6b74c.chunk.js",
+    "static/css/main.4450a0bf.chunk.css",
+    "static/js/main.2f3af8cb.chunk.js"
   ]
 }
