@@ -1,0 +1,15 @@
+.project-container {
+    display: grid;
+    grid-template-columns: 1;
+    object-fit: cover;
+}
+
+.project-cover {
+    border-radius: 10px;
+    width: 35%;
+    height: 50%;
+    float: right;
+    margin: -4rem 1% 1rem 3%;
+    max-height: 300px;
+    max-width: 300px;
+  }
