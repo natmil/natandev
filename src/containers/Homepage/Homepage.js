@@ -22,9 +22,9 @@ const Homepage = () => {
             </Box>
 
             <Box title={"Reach me!"}>
-                <a href={"https://github.com/natmil"}><i class="nes-icon github is-large" /></a>
-                <a href={"mailto:hello@natan.dev"}><i class="nes-icon gmail is-large" /></a>
-                <a href={"https://www.linkedin.com/in/natancas/"}><i class="nes-icon linkedin is-large" /></a>
+                <a target="_blank" href={"https://github.com/natmil"}><i class="nes-icon github is-large" /></a>
+                <a target="_blank" href={"mailto:hello@natan.dev"}><i class="nes-icon gmail is-large" /></a>
+                <a target="_blank" href={"https://www.linkedin.com/in/natancas/"}><i class="nes-icon linkedin is-large" /></a>
             </Box>
         </div>
     );
