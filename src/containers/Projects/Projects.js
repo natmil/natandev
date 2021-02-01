@@ -12,7 +12,7 @@ const Projects = () => {
 
     return (
         <div className={"project-container"}>
-            <Project title={"Videre (BETA)"}>
+            <Project title={"Videre"}>
                 <img className={"project-cover"} src={videre_cover} alt={"Videre"} />
               A video streaming platform built with...
                 <div class="lists">
