@@ -14,7 +14,7 @@ const Homepage = () => {
             <Box title={"Stack"}>
                 <p>I do really enjoy coding with Python 🐍, specially with Django and the REST Framework.</p>
                 <p>For the front I like to use JavaScript and React.</p>
-                <p>I also have knowledge of Docker, Linux, AWS, SQL and NoSQL databases, Redux, HTML and CSS.</p>
+                <p>I also have knowledge of Docker, Linux, AWS, SQL and NoSQL databases, Celery, Redis, Redux, HTML, CSS and styled-components.</p>
             </Box>
 
             <Box title={"Projects"}>
