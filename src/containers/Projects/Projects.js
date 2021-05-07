@@ -37,7 +37,7 @@ const Projects = () => {
                 <div class="lists">
                     <ul class="nes-list is-disc">
                         <li><span class="nes-text is-primary">Python</span> and <span class="nes-text is-primary">Django</span> 🐍</li>
-                        <li>PostgreSQL, and Amazon S3 for the static content</li>
+                        <li>Docker 🐳, PostgreSQL, Minio, and Amazon S3 for the static content</li>
                     </ul>
                 </div>
                 <button 
